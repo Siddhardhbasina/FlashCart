@@ -1,2 +1,2 @@
 # FlashCart
-flashcart.base44.app
+url: flashcart.base44.app
